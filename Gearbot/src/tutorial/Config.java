@@ -16,5 +16,5 @@ public class Config {
 		bot.getName();
 	}
 	
-	public static String[] swearWords = {"Fuck", "Gipsy"};
+	public static String[] swearWords = {"Fuck", "Gypsy"};
 }
